@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "**Join My Discord Server : https://discord.gg/yjeEUQPmCy ", // required by Discord API, not shown in the client
-        state: "Made By Odys",     // this is what people actually see
+        name: "**Jοιn Τhε Dιscοrd Sεrvεr : https://discord.gg/yjeEUQPmCy ", // required by Discord API, not shown in the client
+        state: "Mαde By Odys",     // this is what people actually see
         type: 1,               // Custom
       },
     ],
